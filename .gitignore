@@ -1,0 +1,6 @@
+# Ignore the files
+*.pyc
+
+# Editor related files #
+######################
+.vscode/*
